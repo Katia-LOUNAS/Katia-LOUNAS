@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Katia LOUNAS</h1>
 <h3 align="center">A Master's student, specializing in intelligent computer systems. Diligent, motivated, and interested in the field of artificial intelligence.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=katia-lounas&label=Profile%20views&color=0e75b6&style=flat" alt="katia-lounas" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katia-lounas" alt="katia-lounas" /></a> </p>
 
 - 🌱 I’m currently learning **Deep learning**

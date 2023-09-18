@@ -3,7 +3,6 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=katia-lounas" alt="katia-lounas" /></a> </p>
 
 - 🌱 I’m currently learning **Deep learning**
 
